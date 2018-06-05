@@ -1,2 +1,2 @@
-# Two_level_system
-Two level system monte carlo exercise
+# two_level
+two level system
